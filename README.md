@@ -7,10 +7,11 @@
 ###
 
 <h2 align="left">Formando em Gestão de  tecnologia  da informação!</h2>
+<h2 align="left"> Python developer </h2>
 
 ###
 
-<p align="left">✨ Inteligencia Artificial <br>📚 Data Sciencies<br>🎯 <br>🎲</p>
+<p align="left">✨ Artificial intelligence <br>📚 Data Sciencies<br>🎯 <br>🎲</p>
 
 ###
 
