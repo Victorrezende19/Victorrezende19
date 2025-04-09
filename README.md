@@ -6,8 +6,8 @@
 
 ###
 
-<h2 align="left">Formando em Gestão de  tecnologia  da informação!</h2>
 <h2 align="left"> Python developer </h2>
+<h2 align="left"> Full stack </h2>
 
 ###
 
