@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Artificial intelligence <br>📚 Data Sciencies<br>🎯 <br>🎲</p>
+<p align="left"> Artificial intelligence <br>Data Sciencies<br> <br></p>
 
 ###
 
